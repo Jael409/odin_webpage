@@ -82,7 +82,6 @@ button {
     gap: 16px;
     justify-content: center;
     padding: 12px;
-    flex-flow: wrap;
 }
 
 
