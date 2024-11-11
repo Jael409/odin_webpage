@@ -103,3 +103,61 @@ button {
     max-width: 200px;
 }
 
+.body2 {
+    padding-top: 150px;
+    padding-bottom: 150px;
+
+}
+
+.inspir_text {
+    color: #1f2937;
+    font-size: 22px;
+}
+
+h5 {
+    text-align: center;
+}
+
+
+.especial_text {
+    color: black;
+    text-align: end;
+    font-size: 21px;  
+}
+
+
+.action {
+    font-size: 20px;
+    margin-top: 25px;
+}
+
+.call_action {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(100, 151, 151);
+    align-items: center;
+    margin: 80px;
+    border-radius: 25px;
+    padding: 18px;
+}
+
+.text_action {
+    display: flex;
+    flex-direction: column;
+}
+
+.sign_up {
+    color: #1f2937;
+    margin-top: -25px;
+}
+.sign {
+    border: 2px solid whitesmoke;
+    width: 80px;
+}
+
+.footer {
+    background-color: #1f2937;
+    text-align: center;
+    padding: 18px;
+    color: #e5e7eb;
+}
